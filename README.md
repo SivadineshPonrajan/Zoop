@@ -1,7 +1,7 @@
 # Zoop
 PC controller via sockets
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/SivadineshPonrajan/Zoop/master/zoop.png)
 
 Run the server code in the pc using python.
 
