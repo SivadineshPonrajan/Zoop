@@ -1,6 +1,8 @@
 # Zoop
 PC controller via sockets
 
+![alt text](http://url/to/img.png)
+
 Run the server code in the pc using python.
 
 ```python
