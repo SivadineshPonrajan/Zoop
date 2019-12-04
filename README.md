@@ -12,3 +12,5 @@ python zoop.py
 * Use android studio and import the project. 
 * Change your local IP address in the code.
 * Export the client app.
+
+### ANdroid studio files will be uploaded soon..!!!
