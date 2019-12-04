@@ -13,4 +13,4 @@ python zoop.py
 * Change your local IP address in the code.
 * Export the client app.
 
-### ANdroid studio files will be uploaded soon..!!!
+### Android studio files will be uploaded soon..!!!
