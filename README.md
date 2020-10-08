@@ -9,8 +9,6 @@ Run the server code in the pc using python.
 python zoop.py
 ```
 
-* Use android studio and import the project. 
+* Use android studio and import the project from "Android studio files" folder. 
 * Change your local IP address in the code.
 * Export the client app.
-
-### Android studio files will be uploaded soon..!!!
