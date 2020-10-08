@@ -5,11 +5,11 @@
 
 Control a computer with an android application.
 
-# Note
+### Note
 
 Intended to control the PPT Slides from mobile without any external controller.
 
-# Implementation
+### Implementation
 Run the server code in the pc using python.
 
 ```python
@@ -20,7 +20,7 @@ python zoop.py
 * Change your local IP address in the code.
 * Export the client app.
 
-# Future Updates
+### Future Updates
 
 * Dynamically connect with the server's ip address.
 * Can add many number of buttons and can do any kind of functionalities on the computer.
