@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zoop</string>
+    <string name="zoop">ZOOP</string>
+    <string name="music">MUSIC</string>
+    <string name="win_e">WIN+E</string>
+    <string name="win_r">WIN+R</string>
+    <string name="todo">TODO</string>
+    <string name="escape">ESCAPE</string>
+    <string name="power_off">POWER OFF</string>
+</resources>
